@@ -14,4 +14,5 @@
 - [S.O.L.I.D Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 - [Clean Code Tips](https://medium.com/storyblocks-engineering/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 
-
+## Useful Tool
+- [On My Posh - for terminal](https://ohmyposh.dev/)
